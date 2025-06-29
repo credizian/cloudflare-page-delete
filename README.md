@@ -27,7 +27,7 @@ This script helps you delete old Cloudflare Pages deployments to free up storage
 3. **Fill in your credentials**:
    - `CLOUDFLARE_API_TOKEN`: Your Cloudflare API token
    - `CLOUDFLARE_ACCOUNT_ID`: Your Cloudflare Account ID  
-   - `CLOUDFLARE_PROJECT_NAME`: Your project name (optional, defaults to 'nd-web-mono')
+   - `CLOUDFLARE_PROJECT_NAME`: Your project name (optional, defaults to 'example-project')
 
 ## Usage
 
