@@ -1,0 +1,21 @@
+{
+  "name": "cloudflare-pages-delete",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Script to delete Cloudflare Pages deployments",
+  "main": "delete-pages-deployments.js",
+  "scripts": {
+    "start": "node delete-pages-deployments.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": [
+    "cloudflare",
+    "pages",
+    "deployments"
+  ],
+  "author": "",
+  "license": "MIT"
+}
